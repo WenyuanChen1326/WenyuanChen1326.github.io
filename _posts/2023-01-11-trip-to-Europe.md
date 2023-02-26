@@ -59,7 +59,7 @@ Nice is nice!
 Chinese New Year in Rennes
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/CNY.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/CNY.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 
 </div>
@@ -67,7 +67,7 @@ Chinese New Year in Rennes
 Salute my beloved friend Zoe!
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/friend.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/friend.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 
 </div>
