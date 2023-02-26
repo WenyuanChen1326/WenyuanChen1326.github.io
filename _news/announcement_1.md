@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2018-09-23 15:59:00-0400
 inline: true
 ---
-
-A simple inline announcement.
+Joined University of California San Diego (UCSD) as a member of the Class of 2023 and majored in human biology
