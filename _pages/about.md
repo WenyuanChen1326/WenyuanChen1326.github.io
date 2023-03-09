@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://ucsd.edu/'>UCSD</a>, 858-209-4620, <span title="Click to email"><a href="cwyuan1010@gmail.com">cwyuan1010@gmail.com</a></span>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
